@@ -307,6 +307,6 @@ Si ves `ConcurrentModificationException`:
 
 Proyecto educativo para aprendizaje de Java y manejo de colecciones.
 
-## 👤 Autor
+## 👤 Autor --> Judith Olmedo Andrés
 
 Ejercicio de reflexión sobre el comportamiento de iteradores y modificación de colecciones en Java.
